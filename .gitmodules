@@ -100,3 +100,6 @@
 [submodule "zlib"]
 	path = zlib
 	url = git://github.com/opscode-cookbooks/zlib.git
+[submodule "passenger_apache2"]
+	path = passenger_apache2
+	url = git://github.com/opscode-cookbooks/passenger_apache2.git
