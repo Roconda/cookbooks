@@ -25,3 +25,78 @@
 [submodule "apache2"]
 	path = apache2
 	url = git://github.com/opscode-cookbooks/apache2.git
+[submodule "java"]
+	path = java
+	url = git://github.com/opscode-cookbooks/java.git
+[submodule "nginx"]
+	path = nginx
+	url = git://github.com/opscode-cookbooks/nginx.git
+[submodule "php"]
+	path = php
+	url = git://github.com/opscode-cookbooks/php.git
+[submodule "ohai"]
+	path = ohai
+	url = git://github.com/opscode-cookbooks/ohai.git
+[submodule "memcached"]
+	path = memcached
+	url = git://github.com/opscode-cookbooks/memcached.git
+[submodule "runit"]
+	path = runit
+	url = git://github.com/opscode-cookbooks/runit.git
+[submodule "gems"]
+	path = gems
+	url = git://github.com/opscode-cookbooks/gems.git
+[submodule "chef"]
+	path = chef
+	url = git://github.com/opscode-cookbooks/chef.git
+[submodule "rsync"]
+	path = rsync
+	url = git://github.com/opscode-cookbooks/rsync.git
+[submodule "sbuild"]
+	path = sbuild
+	url = git://github.com/opscode-cookbooks/sbuild.git
+[submodule "tomcat"]
+	path = tomcat
+	url = git://github.com/opscode-cookbooks/tomcat.git
+[submodule "maven"]
+	path = maven
+	url = git://github.com/opscode-cookbooks/maven.git
+[submodule "application_php"]
+	path = application_php
+	url = git://github.com/opscode-cookbooks/application_php.git
+[submodule "application_java"]
+	path = application_java
+	url = git://github.com/opscode-cookbooks/application_java.git
+[submodule "application_ruby"]
+	path = application_ruby
+	url = git://github.com/opscode-cookbooks/application_ruby.git
+[submodule "gunicorn"]
+	path = gunicorn
+	url = git://github.com/opscode-cookbooks/gunicorn.git
+[submodule "aws"]
+	path = aws
+	url = git://github.com/opscode-cookbooks/aws.git
+[submodule "cron"]
+	path = cron
+	url = git://github.com/opscode-cookbooks/cron.git
+[submodule "perl"]
+	path = perl
+	url = git://github.com/opscode-cookbooks/perl.git
+[submodule "swift"]
+	path = swift
+	url = git://github.com/opscode-cookbooks/swift.git
+[submodule "ssh_known_hosts"]
+	path = ssh_known_hosts
+	url = git://github.com/opscode-cookbooks/ssh_known_hosts.git
+[submodule "imagemagick"]
+	path = imagemagick
+	url = git://github.com/opscode-cookbooks/imagemagick.git
+[submodule "hadoop"]
+	path = hadoop
+	url = git://github.com/opscode-cookbooks/hadoop.git
+[submodule "sqlite"]
+	path = sqlite
+	url = git://github.com/opscode-cookbooks/sqlite.git
+[submodule "zlib"]
+	path = zlib
+	url = git://github.com/opscode-cookbooks/zlib.git
